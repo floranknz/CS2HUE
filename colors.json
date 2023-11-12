@@ -1,0 +1,31 @@
+{
+    "bomb": {
+        "on": true,
+        "colormode": "xy",
+        "xy": [
+            0.6904,
+            0.3091
+        ],
+    },
+    "CT": {
+        "on": true,
+        "colormode": "xy",
+        "xy": [
+			0.1553,
+			0.1284
+		],
+    },
+    "T": {
+        "on": true,
+        "colormode": "xy",
+        "xy": [
+			0.5964,
+			0.3797
+		],
+    },
+    "Default": {
+        "on": true,
+        "colormode": "ct",
+        "ct": 399,
+    },
+}
