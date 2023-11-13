@@ -4,84 +4,55 @@
 		"appid": 730,
 		"version": 13968,
 		"steamid": "76561198061667490",
-		"timestamp": 1699829272
-	},
-	"map": {
-		"mode": "casual",
-		"name": "de_inferno",
-		"phase": "live",
-		"round": 8,
-		"team_ct": {
-			"score": 0,
-			"consecutive_round_losses": 8,
-			"timeouts_remaining": 1,
-			"matches_won_this_series": 0
-		},
-		"team_t": {
-			"score": 8,
-			"consecutive_round_losses": 0,
-			"timeouts_remaining": 1,
-			"matches_won_this_series": 0
-		},
-		"num_matches_to_win_series": 0
-	},
-	"round": {
-		"phase": "live"
+		"timestamp": 1699917620
 	},
 	"player": {
 		"steamid": "76561198061667490",
 		"name": "Floboy",
-		"observer_slot": 1,
-		"team": "CT",
-		"activity": "menu",
-		"state": {
-			"health": 100,
-			"armor": 100,
-			"helmet": true,
-			"defusekit": true,
-			"flashed": 0,
-			"smoked": 0,
-			"burning": 0,
-			"money": 59700,
-			"round_kills": 0,
-			"round_killhs": 0,
-			"equip_value": 1900
-		},
-		"weapons": {
-			"weapon_0": {
-				"name": "weapon_knife",
-				"paintkit": "default",
-				"type": "Knife",
-				"state": "active"
-			},
-			"weapon_1": {
-				"name": "weapon_usp_silencer",
-				"paintkit": "default",
-				"type": "Pistol",
-				"ammo_clip": 12,
-				"ammo_clip_max": 12,
-				"ammo_reserve": 24,
-				"state": "holstered"
-			},
-			"weapon_2": {
-				"name": "weapon_smokegrenade",
-				"paintkit": "default",
-				"type": "Grenade",
-				"ammo_reserve": 1,
-				"state": "holstered"
-			}
-		},
-		"match_stats": {
-			"kills": 0,
-			"assists": 0,
-			"deaths": 4,
-			"mvps": 1,
-			"score": 0
-		}
+		"activity": "menu"
 	},
 	"previously": {
+		"map": true,
+		"round": true,
 		"player": {
-			"activity": "playing"
+			"observer_slot": 1,
+			"team": "CT",
+			"state": {
+				"health": 100,
+				"armor": 0,
+				"helmet": false,
+				"flashed": 0,
+				"smoked": 0,
+				"burning": 0,
+				"money": 60000,
+				"round_kills": 0,
+				"round_killhs": 0,
+				"equip_value": 200
+			},
+			"weapons": {
+				"weapon_0": {
+					"name": "weapon_knife",
+					"paintkit": "default",
+					"type": "Knife",
+					"state": "holstered"
+				},
+				"weapon_1": {
+					"name": "weapon_usp_silencer",
+					"paintkit": "default",
+					"type": "Pistol",
+					"ammo_clip": 12,
+					"ammo_clip_max": 12,
+					"ammo_reserve": 24,
+					"state": "active"
+				}
+			},
+			"match_stats": {
+				"kills": 0,
+				"assists": 0,
+				"deaths": 0,
+				"mvps": 0,
+				"score": 0
+			}
 		}
 	},
 	"auth": {
