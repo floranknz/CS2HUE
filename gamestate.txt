@@ -4,85 +4,12 @@
 		"appid": 730,
 		"version": 13969,
 		"steamid": "76561198061667490",
-		"timestamp": 1700002527
-	},
-	"map": {
-		"mode": "casual",
-		"name": "de_inferno",
-		"phase": "live",
-		"round": 5,
-		"team_ct": {
-			"score": 0,
-			"consecutive_round_losses": 5,
-			"timeouts_remaining": 1,
-			"matches_won_this_series": 0
-		},
-		"team_t": {
-			"score": 5,
-			"consecutive_round_losses": 0,
-			"timeouts_remaining": 1,
-			"matches_won_this_series": 0
-		},
-		"num_matches_to_win_series": 0
-	},
-	"round": {
-		"phase": "live"
+		"timestamp": 1700174649
 	},
 	"player": {
 		"steamid": "76561198061667490",
 		"name": "Floboy",
-		"observer_slot": 1,
-		"team": "T",
-		"activity": "playing",
-		"state": {
-			"health": 100,
-			"armor": 100,
-			"helmet": true,
-			"flashed": 0,
-			"smoked": 0,
-			"burning": 0,
-			"money": 60000,
-			"round_kills": 0,
-			"round_killhs": 0,
-			"equip_value": 1200
-		},
-		"weapons": {
-			"weapon_0": {
-				"name": "weapon_knife_t",
-				"paintkit": "default",
-				"type": "Knife",
-				"state": "holstered"
-			},
-			"weapon_1": {
-				"name": "weapon_glock",
-				"paintkit": "cu_glock_indigo",
-				"type": "Pistol",
-				"ammo_clip": 20,
-				"ammo_clip_max": 20,
-				"ammo_reserve": 120,
-				"state": "active"
-			},
-			"weapon_2": {
-				"name": "weapon_c4",
-				"paintkit": "default",
-				"type": "C4",
-				"state": "holstered"
-			}
-		},
-		"match_stats": {
-			"kills": 0,
-			"assists": 0,
-			"deaths": 0,
-			"mvps": 0,
-			"score": 5
-		}
-	},
-	"added": {
-		"player": {
-			"weapons": {
-				"weapon_2": true
-			}
-		}
+		"activity": "menu"
 	},
 	"auth": {
 		"token": "CCWJu64ZV3JHDT8hZc"
